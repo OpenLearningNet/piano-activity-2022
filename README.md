@@ -16,11 +16,7 @@ The project has two parts:
 * Navigate to the `server` folder, run `python run_server.py`
 * Open http://localhost:5000/ to access the activity
 
-## Task
-
-This is a small starter project which we hope will become a fully-fledged activity. Your task is to add new functionality to this project to produce a working end product.
-
-# TODO:
+### Unfinished...
 
 Intended direction for this project:
 
